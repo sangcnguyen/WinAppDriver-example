@@ -4,7 +4,7 @@ Windows Application Driver is a service to support Selenium-like UI Test Automat
 
 # Table of Contents
 
-* [SystemRequirements](#system-requirements)
+* [System Requirements](#system-requirements)
 * [Installing and Running](#installing-and-running)
 * [Other Locators](#other-locators-to-find-ui-elements)
 * [References](#references)
